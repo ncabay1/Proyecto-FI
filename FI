@@ -2,6 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <string>
+using namespace std;
 
 struct Entidad_1{
 	string pais;
