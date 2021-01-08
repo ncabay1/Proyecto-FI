@@ -1,2 +1,11 @@
-//
-struct 
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <string>
+
+struct Entidad_1{
+	string pais;
+	string producto;
+	string uso;
+	float cantidad;
+};
